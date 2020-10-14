@@ -17,6 +17,8 @@ tags:
 
 Άσκηση: Τροποποιήστε τον κώδικα του παραδείγματος προσθέτοντας και οπτικοποιώντας στο ίδιο πλαίσιο περισσότερα από 2 σετ δεδομένων (datasets).
 
+Λύση:
+
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="P2017204" data-slug-hash="PozZWOp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="D3 chart 2">
   <span>See the Pen <a href="https://codepen.io/P2017204/pen/PozZWOp">
   D3 chart 2</a> by P2017204 (<a href="https://codepen.io/P2017204">@P2017204</a>)
