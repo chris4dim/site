@@ -9,17 +9,18 @@ tags:
   - IV
 ---
 
-## Παράδειγμα διαδραστικού γραφήματος No.1
+## Παράδειγμα διαδραστικού γραφήματος
 
-Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη d3.js / dimple.js (http://d3js.org , http://dimplejs.org)
+Διαδραστικό παράδειγμα γραφήματος, όπου ο χρήστης μπορεί τοποθετώντας το δείκτη του ποντικιού πάνω στις μπάρες του γραφήματος να δεί τα δεδομένα στα αντίστοιχα ποσοστά.
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="pJYmOJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/pJYmOJ/'>d3 bar chart example</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="P2017204" data-slug-hash="zYBeGwG" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Graphs - animated on scroll, responsive, data-driven">
+  <span>See the Pen <a href="https://codepen.io/P2017204/pen/zYBeGwG">
+  Graphs - animated on scroll, responsive, data-driven</a> by P2017204 (<a href="https://codepen.io/P2017204">@P2017204</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση 1: Δημιουργείστε ένα αρχείο της επιλογής σας (πχ.: .csv,.tsv,.json κτλ) και προσθέστε στην κατάλληλη μορφή τα δεδομένα που οπτικοποιεί το παράδειγμα (πίνακας data στην ενότητα Javascript).
+Άσκηση 1: Προσθέστε νέα δεδομένα στο γράφημα στην html οπτικοποιώντας ένα πραγματικό στατιστικό παράδειγμα.
 
-Άσκηση 2: Ανεβάστε το αρχείο σε μια υπηρεσία που επιτρέπει τη δωρεάν αποθήκευση αρχείων (π.χ.: Github, Dropbox).
+Άσκηση 2: Κάντε αλλαγές στις μπάρες του γραφήματος τροποποιώντας τα χαρακτηριστικά του γραφήματος σχετικά με το χρώμα, μέγεθος κτλ στην css.
 
-Άσκηση 3: Τροποποιήστε το παράδειγμα κατάλληλα ώστε να γίνεται φόρτωση και προσπέλαση των δεδομένων από το αρχείο που δημιουργήσατε.
-
-Άσκηση 4: Προσθέστε περισσότερα δεδομένα στο αρχείο και δοκιμάστε παραδείγματα απο το documentation της βιβλιοθήκης (http://dimplejs.org/).
