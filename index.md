@@ -19,7 +19,7 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
 
- <a href="https://twitter.com/intent/tweet?button_hashtag=p17chri1&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #p17chri1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a class="twitter-timeline" href="https://twitter.com/p17chr1?ref_src=twsrc%5Etfw">Tweets by p17chr1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
 
